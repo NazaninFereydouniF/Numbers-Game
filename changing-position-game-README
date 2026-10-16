@@ -1,0 +1,14 @@
+# 🔄 Changing Position Game
+
+An interactive list-manipulation game. Start with `[0, 1, 2]`, pick a position `0/1/2`, replace it with your own text, repeat until you quit with `N`.
+
+## Run
+```bash
+jupyter notebook "Changing Position Game.ipynb"
+```
+> Uses `IPython.display.clear_output` — best in Jupyter.
+
+## Concepts
+`functions` · list indexing · `input()` validation · game loop · `clear_output`
+
+Part of [Python Mini Games Collection](python-mini-games-README.md).
