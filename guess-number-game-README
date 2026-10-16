@@ -1,0 +1,19 @@
+# 🔢 Guess Number Game (Warm / Cold)
+
+A classic Python guessing game: the computer picks a secret number between **1–100**, you guess until you find it.
+
+## Rules
+- First guess within 10 → `WARM!`, otherwise → `COLD!`
+- Next guesses: closer than before → `WARMER!`, farther → `COLDER!`
+- Out of range (not 1–100) → `OUT OF BOUNDS!`
+- Win message shows attempt count.
+
+## Run
+```bash
+jupyter notebook "Guess Number Game.ipynb"
+```
+
+## Concepts
+`random.randint` · `while` loop · `abs()` · input validation · list history
+
+Part of [Python Mini Games Collection](python-mini-games-README.md).
