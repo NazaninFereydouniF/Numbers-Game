@@ -170,9 +170,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 
 ---
 
-## 📄 License
-
-This project is released under the [MIT License](LICENSE) — free to use for learning and portfolio purposes.
-
-
 ⭐ If you found this helpful, please give it a star!
